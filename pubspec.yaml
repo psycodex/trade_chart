@@ -1,0 +1,17 @@
+name: trade_chart
+description: A Flutter Trade Chart.
+version: 0.0.1
+homepage: https://github.com/psycodex/trade_chart
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
